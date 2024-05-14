@@ -3,8 +3,7 @@
 Sur ce repo vous trouverez les différents fichiers et dossiers qui composent mon dossier de stage.
 
 | Compétences | Implémenté ? | Implémentation
-| :--------------- |:---------------:| -----:|
-                           
+| :--------------- |:---------------:| -----:|                           
 | Installer et configurer son environnement de travail en fonction du projet |               |                 |
 | Développer des interfaces utilisateur |               |                 |
 | Développer des composants métier |               |                 |
