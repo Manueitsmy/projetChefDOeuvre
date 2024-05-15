@@ -9,14 +9,15 @@ Quelques précisions sur l'organisation des dossiers :
 * Dossier de projet : Le livrable que sera la dossier qui va être imprimé, au format Word compatible ou PDF idéalement.
 
 * Elements partagés : Ensemble de dossiers et de sous-dossiers correpondants aux items demandés, ces items seront les mêmes dans le dossier et la présentation. C'est juste la mise en page qui diffère.
-* - On y trouvera des fichiers seulement de ce type :
-- . images png ou jpg
-- . des fichiers markdown ( pas dans le readme.md !! ) correspondants au textes que vous allez reprendre dans vos livrables.
-* - Pour s'y retrouver, certains dossiers peuvent contenir d'autres sous dossiers ou plusieurs éléments, le readme.md le précise déjà pour : Spécifiations Fonctionnelles, réalisations du candidat, annexes
-* - N'hésitez pas à laisser des notes dans le readme.md à la racine du dossier pour expliquer/contextualiser
-Présentation Diaporama : Le livrable qu'est la présentation, au format Power Point compatible idéalement.
+  - On y trouvera des fichiers seulement de ce type :
+       - images png ou jpg
+       - des fichiers markdown ( pas dans le readme.md !! ) correspondants au textes que vous allez reprendre dans vos livrables.
+- Pour s'y retrouver, certains dossiers peuvent contenir d'autres sous dossiers ou plusieurs éléments, le readme.md le précise déjà pour : Spécifiations Fonctionnelles, réalisations du candidat, annexes
+- N'hésitez pas à laisser des notes dans le readme.md à la racine du dossier pour expliquer/contextualiser
 
-En cours : Placez librement les choses comme vous voulez dans ce dossier UNIQUEMENT.
+* Présentation Diaporama : Le livrable qu'est la présentation, au format Power Point compatible idéalement.
+
+* En cours : Placez librement les choses comme vous voulez dans ce dossier UNIQUEMENT.
 
 Pour finir, un tableau tel que celui ci-dessous devra apparaître en page d'accueil :
 
